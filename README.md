@@ -1,6 +1,6 @@
 # 14-Day Stability Tracker
 
-Flutter Web app to track daily stability metrics for the last 14 days and persist records in Supabase.
+Flutter Web app to track daily stability metrics for the last 14 days and persist records in Supabase
 
 ## Prerequisites
 
